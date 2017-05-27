@@ -10,6 +10,9 @@ This repository _is not_ the original repository for Expertiza. Here is the link
 
 
 ## For the reviewer
+### Link to Screencast
+[![screencast link](https://img.youtube.com/vi/_58l0VPy04M/0.jpg)](https://www.youtube.com/watch?v=_58l0VPy04M)  
+
 ### Overview of the Assignment
 Feature test for assignment submission by student mocks the steps required in assignment submission on Expertiza. After the assignment is created by the instructor, the student can submit the assignment by taking the following steps:
 * Login
